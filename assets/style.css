@@ -39,3 +39,15 @@ p {
     box-shadow: 5px 10px #9454CD;
   }
   
+  #css-section {
+    font-family:cursive;
+  }
+  #html-section {
+    font-family:cursive;
+  }
+  #git-section {
+    font-family:cursive;
+  }
+  #javascript-section {
+    font-family:cursive;
+  }
